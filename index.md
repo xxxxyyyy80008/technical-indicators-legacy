@@ -46,7 +46,7 @@ permalink: /indicators/
 
 | Indicator | Adaptation Method | Link |
 |:----------|:------------------|:-----|
-| FRAMA | Fractal dimension | [View](/docs/alpha-research/indicators/b_002_1_frama_intro/b_002_1_frama_intro.html) |
+| FRAMA | Fractal dimension | [View](/indicators/b_002_1_frama_intro/b_002_1_frama_intro.html) |
 | VAMA | Volatility-based | [View](/docs/alpha-research/indicators/b_003_1_vama_intro/b_003_1_vama_intro.html) |
 | MAMA | Hilbert Transform (MESA) | [View](/docs/alpha-research/indicators/b_037_1_mama_intro/b_037_1_mama_intro.html) |
 | Kaufman ER | Efficiency ratio | [View](/docs/alpha-research/indicators/b_025_1_er_intro/b_025_1_er_intro.html) |
