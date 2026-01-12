@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Technical Indicators
-parent: Alpha Research & Signal Generation
 nav_order: 1
 has_children: true
 has_toc: false
-permalink: /docs/alpha-research/indicators/
+permalink: /indicators/
 ---
 
 
